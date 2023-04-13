@@ -10,7 +10,7 @@
 - :classical_building: Team  : RyukoNet
 - :house: Hobby : sport, Anime and game
 
-#### code language :pick:
+#### Code language :pick:
 - Python
 - Bash
 - Html
@@ -20,7 +20,7 @@
 - Vscode
 - Sublim text
 
-#### used Os :gear:
+#### Used Os :gear:
 - kali Linux
 - Windows
 
