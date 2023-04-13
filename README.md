@@ -24,7 +24,7 @@
 - kali Linux
 - Windows
 
-<p align="right align="center"><img src="https://github-readme-stats.vercel.app/api?username=HunxByts&show_icons=true&theme=transparent" alt="hunxbyts:: Profile Stats" /></p>
+<p align="right align="center"><img src="https://github-readme-stats.vercel.app/api?username=HunxByts&show_icons=true&theme=transparent" alt="HunxByts:: Profile Stats"/></p>
 
 
 
