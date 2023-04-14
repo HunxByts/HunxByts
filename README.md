@@ -25,6 +25,8 @@
 - Windows
 
 <p align="right align="center"><img src="https://github-readme-stats.vercel.app/api?username=HunxByts&show_icons=true&theme=transparent" alt="HunxByts:: Profile Stats"/></p>
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hunxploit04&hide_progress=true)](https://github.com/Hunxploit04/github-readme-stats)
 
 
 
