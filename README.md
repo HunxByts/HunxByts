@@ -6,8 +6,8 @@
 
 #### I am a student who likes coding 
 
-- :boy: Name  : HunX | fais
-- :classical_building: Founder  : RyukoNet
+- :boy: Name : HunX | fais
+- :classical_building: Founder : RyukoNet
 - :house: Hobby : sport, Anime and game
 
 #### Code language :pick:
