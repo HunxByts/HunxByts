@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm HunxByts  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <details>
-<summary>:zap: this is the 2nd account of Hunxploit</summary>
-<a href="https://github.com/Hunxploit04">Hunxploit</a>
+<summary>:zap: this is the 2nd account of Hunxploit04</summary>
+<a href="https://github.com/Hunxploit04">Hunxploit04</a>
 </details>
 
 #### I am a student who likes coding 
