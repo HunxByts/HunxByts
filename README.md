@@ -29,6 +29,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HunxByts&theme=tokyonight)
 
-<s href="https://saweria.co/widgets/qr?streamKey=c30db71fb329c008e305c0741b77b690">If you want to buy me a drink, please do so. 😄</a>
+<a href="https://saweria.co/widgets/qr?streamKey=c30db71fb329c008e305c0741b77b690">If you want to buy me a drink, please do so. 😄</a>
 
 
