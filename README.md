@@ -14,7 +14,6 @@
 #### Code language :pick:
 - Python
 - Bash
-- Html
 - C++
 
 #### Tools :hammer_and_pick:
