@@ -9,7 +9,7 @@
 - :boy: Name   :   HunX | fais
 - 🥇 Age : 16+
 - :classical_building: Founder : RyukoNet
-- :house: Hobby   : sport, Anime and game
+- :house: Hobby   : gaming
 
 #### Code language :pick:
 - Python
