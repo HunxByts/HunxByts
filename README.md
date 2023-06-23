@@ -8,7 +8,7 @@
 
 - :boy: Name   :   HunX | fais
 - :classical_building: Founder : RyuNet
-- :house: Hobby   : gaming
+- :house: Hobby   : Gaming
 
 #### Code language :pick:
 - Python
@@ -17,7 +17,6 @@
 
 #### Tools :hammer_and_pick:
 - Vscode
-- Sublim text
 
 #### Used Os :gear:
 - kali Linux
