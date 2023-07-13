@@ -7,6 +7,7 @@
 #### I am a student who likes coding 
 
 - :boy: Name   :   HunX | fais
+- 🥇 Age  : 16
 - :classical_building: Founder : RyuNet
 - :house: Hobby   : Gaming
 
