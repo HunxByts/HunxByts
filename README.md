@@ -7,7 +7,7 @@
 #### I am a student who likes coding 
 
 - :boy: Name   :   HunX | fais
-- :classical_building: Founder : CYS
+- :classical_building: Founder : ENSEC
 - :house: Hobby   : Gaming
 
 #### Code language :pick:
